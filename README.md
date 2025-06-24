@@ -6,3 +6,5 @@ como fuente de información la base de datos de [The Movie Database](https://www
 ## Para lanzar el proyecto.
 
 Se necesita Android Studio y una API Key de The Movie Database.
+
+#### Para una descripción en detalle véase la documentación del proyecto.
